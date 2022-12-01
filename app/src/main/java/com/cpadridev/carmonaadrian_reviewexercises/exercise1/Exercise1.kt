@@ -1,4 +1,4 @@
-package com.cpadridev.carmonaadrian_reviewexercises
+package com.cpadridev.carmonaadrian_reviewexercises.exercise1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

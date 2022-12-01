@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CarmonaAdrian_ReviewExercises</string>
+    <string name="app_name" translatable="false">CarmonaAdrian_ReviewExercises</string>
+    <string name="error_response">Fallo en la respuesta</string>
 </resources>

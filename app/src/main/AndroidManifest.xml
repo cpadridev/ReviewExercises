@@ -16,19 +16,23 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".Exercise4"
+            android:name=".exercise4.Exercise4"
             android:parentActivityName=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Exercise3"
+            android:name=".exercise4.Film"
+            android:parentActivityName=".exercise4.Exercise4"
+            android:exported="false" />
+        <activity
+            android:name=".exercise3.Exercise3"
             android:parentActivityName=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Exercise2"
+            android:name=".exercise2.Exercise2"
             android:parentActivityName=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Exercise1"
+            android:name=".exercise1.Exercise1"
             android:parentActivityName=".MainActivity"
             android:exported="false" />
         <activity
