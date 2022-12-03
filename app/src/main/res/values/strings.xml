@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name" translatable="false">CarmonaAdrian_ReviewExercises</string>
     <string name="error_response">Fallo en la respuesta</string>
+    <string name="profession">Profesión:</string>
+    <string name="age">Edad:</string>
+    <string name="name">Nombre:</string>
+    <string name="next">Siguiente</string>
+    <string name="hint_enter_word">Introduce una Palabra</string>
+    <string name="add">Agregar</string>
+    <string name="error_fill_fields">Debes rellenar todos los campos</string>
 </resources>

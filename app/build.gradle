@@ -20,12 +20,12 @@ android {
         main {
             res.srcDirs =
                     [
+                            'src/main/res',
+                            'src/main/res/layouts',
                             'src/main/res/layouts/exercise1',
                             'src/main/res/layouts/exercise2',
                             'src/main/res/layouts/exercise3',
-                            'src/main/res/layouts/exercise4',
-                            'src/main/res/layouts',
-                            'src/main/res'
+                            'src/main/res/layouts/exercise4'
                     ]
         }
     }

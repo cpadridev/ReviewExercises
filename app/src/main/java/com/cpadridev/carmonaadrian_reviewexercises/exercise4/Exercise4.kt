@@ -59,7 +59,7 @@ class Exercise4 : AppCompatActivity() {
                         starshipAdapter?.addToList(starshipsList)
                     }
                 } else {
-                    Toast.makeText(applicationContext, getString(R.string.errror_response), Toast.LENGTH_LONG).show()
+                    Toast.makeText(applicationContext, getString(R.string.error_response), Toast.LENGTH_LONG).show()
                 }
             }
 
