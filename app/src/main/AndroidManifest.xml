@@ -15,7 +15,6 @@
         android:theme="@style/Theme.CarmonaAdrian_ReviewExercises"
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
-
         <activity
             android:name=".exercise4.Exercise4"
             android:exported="false"
@@ -39,11 +38,15 @@
         <activity
             android:name=".exercise2.Form"
             android:exported="false"
-            android:parentActivityName=".exercise2.Exercise2"/>
+            android:parentActivityName=".exercise2.Exercise2" />
         <activity
             android:name=".exercise1.Exercise1"
             android:exported="false"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".exercise1.SummaryPerson"
+            android:exported="false"
+            android:parentActivityName=".exercise1.Exercise1"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -8,4 +8,7 @@
     <string name="hint_enter_word">Enter a word</string>
     <string name="add">Add</string>
     <string name="error_fill_fields">You must fill all the fields</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
 </resources>
